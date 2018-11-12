@@ -1,3 +1,5 @@
+**NOTE: You are currently viewing the experimental TensorFlow.js version of the app.**
+
 [![Build Status](https://travis-ci.org/IBM/MAX-Image-Segmenter-Web-App.svg?branch=master)](https://travis-ci.org/IBM/MAX-Image-Segmenter-Web-App)
 
 # MAX Image Segmenter Web App: Magic Cropping Tool
